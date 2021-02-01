@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace simulation
 {
-	class HallA:Hall
+	class HallA2 : Hall
 	{
 		public override void HallConfiguration()
 		{
@@ -20,7 +20,7 @@ namespace simulation
 			Column = 22;
             shopAmount = 2;
 
-			seatAmount = Row * Column;
+            seatAmount = Row * Column;
 			seats = new Seat[Row, Column];
 			shops = new Shops[shopAmount];
 			doors = new Door[2];
@@ -30,10 +30,10 @@ namespace simulation
 			{
 				for (int j = 0; j < Column; j++)
 				{
-					
-					if (j == (Column / 2))
+
+					if (i > 0 && i % 2 == 0 && j == 0)
 					{
-						PositionX = PositionX + 20;
+						PositionY= PositionY + 10;
 					}
 
 					seats[i, j] = new Seat(name + "" + (j + 1), PositionX, PositionY, Height, Width);
@@ -41,13 +41,11 @@ namespace simulation
 				}
 				PositionX = 120;
 				PositionY = PositionY + 20;
-
 			}
-           
-			doors[0] = new Door(50, 10, 30,0);
-			doors[1] = new Door(50, 10, 30, 0);
+            doors[0] = new Door(50, 10, 30, 0);
+            doors[1] = new Door(50, 10, 30, 0);
             shops[0] = new Shops(30, 30, 40, 50);
             shops[1] = new Shops(0, 0, 0, 0);
         }
-    }
+	}
 }

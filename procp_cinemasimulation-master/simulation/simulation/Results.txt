@@ -1,0 +1,12 @@
+***********SIMULATION RESULTS************
+
+
+Total Visitor:	Total Amount:
+
+Male Visitor:	0
+
+Female Visitor:	0
+
+Shop Visitor:	0
+
+Simulation TIME=0:00

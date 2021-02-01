@@ -28,38 +28,38 @@
 		/// </summary>
 		private void InitializeComponent()
 		{
-			this.components = new System.ComponentModel.Container();
-			this.timer1 = new System.Windows.Forms.Timer(this.components);
-			this.simulatetimer = new System.Windows.Forms.Timer(this.components);
-			this.timerobj = new System.Windows.Forms.Timer(this.components);
-			this.SuspendLayout();
-			// 
-			// timer1
-			// 
-			this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
-			// 
-			// simulatetimer
-			// 
-			this.simulatetimer.Tick += new System.EventHandler(this.simulatetimer_Tick);
-			// 
-			// timerobj
-			// 
-			this.timerobj.Tick += new System.EventHandler(this.timerobj_Tick);
-			// 
-			// SimulatingScreen
-			// 
-			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.BackColor = System.Drawing.Color.Black;
-			this.ClientSize = new System.Drawing.Size(586, 306);
-			this.DoubleBuffered = true;
-			this.ForeColor = System.Drawing.Color.White;
-			this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-			this.Name = "SimulatingScreen";
-			this.Text = "SimulatingScreen";
-			this.Load += new System.EventHandler(this.SimulatingScreen_Load);
-			this.Paint += new System.Windows.Forms.PaintEventHandler(this.SimulatingScreen_Paint);
-			this.ResumeLayout(false);
+            this.components = new System.ComponentModel.Container();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.simulatetimer = new System.Windows.Forms.Timer(this.components);
+            this.timerobj = new System.Windows.Forms.Timer(this.components);
+            this.SuspendLayout();
+            // 
+            // timer1
+            // 
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // simulatetimer
+            // 
+            this.simulatetimer.Tick += new System.EventHandler(this.simulatetimer_Tick);
+            // 
+            // timerobj
+            // 
+            this.timerobj.Tick += new System.EventHandler(this.timerobj_Tick);
+            // 
+            // SimulatingScreen
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.Black;
+            this.ClientSize = new System.Drawing.Size(586, 306);
+            this.DoubleBuffered = true;
+            this.ForeColor = System.Drawing.Color.White;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Name = "SimulatingScreen";
+            this.Text = "SimulatingScreen";
+            this.Load += new System.EventHandler(this.SimulatingScreen_Load);
+            this.Paint += new System.Windows.Forms.PaintEventHandler(this.SimulatingScreen_Paint);
+            this.ResumeLayout(false);
 
 		}
 

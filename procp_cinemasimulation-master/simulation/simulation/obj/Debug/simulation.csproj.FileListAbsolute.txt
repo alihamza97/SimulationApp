@@ -41,3 +41,90 @@ C:\Shark\Fontys\Second Year\ProCp\Simulation\procp_cinemasimulation\simulation\s
 C:\Shark\Fontys\Second Year\ProCp\Simulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csproj.CoreCompileInputs.cache
 C:\Shark\Fontys\Second Year\ProCp\Simulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.exe
 C:\Shark\Fontys\Second Year\ProCp\Simulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.pdb
+C:\Users\365185\Desktop\Simulationlatest\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.exe.config
+C:\Users\365185\Desktop\Simulationlatest\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.exe
+C:\Users\365185\Desktop\Simulationlatest\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.pdb
+C:\Users\365185\Desktop\Simulationlatest\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csprojAssemblyReference.cache
+C:\Users\365185\Desktop\Simulationlatest\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.Form1.resources
+C:\Users\365185\Desktop\Simulationlatest\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.Properties.Resources.resources
+C:\Users\365185\Desktop\Simulationlatest\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.SimulatingScreen.resources
+C:\Users\365185\Desktop\Simulationlatest\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csproj.GenerateResource.cache
+C:\Users\365185\Desktop\Simulationlatest\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csproj.CoreCompileInputs.cache
+C:\Users\365185\Desktop\Simulationlatest\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.exe
+C:\Users\365185\Desktop\Simulationlatest\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.pdb
+C:\Users\Systeembeheer\Desktop\Simulstion\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.exe.config
+C:\Users\Systeembeheer\Desktop\Simulstion\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.exe
+C:\Users\Systeembeheer\Desktop\Simulstion\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.pdb
+C:\Users\Systeembeheer\Desktop\Simulstion\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csprojResolveAssemblyReference.cache
+C:\Users\Systeembeheer\Desktop\Simulstion\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.Form1.resources
+C:\Users\Systeembeheer\Desktop\Simulstion\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.Properties.Resources.resources
+C:\Users\Systeembeheer\Desktop\Simulstion\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.SimulatingScreen.resources
+C:\Users\Systeembeheer\Desktop\Simulstion\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csproj.GenerateResource.Cache
+C:\Users\Systeembeheer\Desktop\Simulstion\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.exe
+C:\Users\Systeembeheer\Desktop\Simulstion\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.pdb
+C:\Users\Ali\Desktop\sho[\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.exe.config
+C:\Users\Ali\Desktop\sho[\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.exe
+C:\Users\Ali\Desktop\sho[\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.pdb
+C:\Users\Ali\Desktop\sho[\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\sho[\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.Form1.resources
+C:\Users\Ali\Desktop\sho[\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.Properties.Resources.resources
+C:\Users\Ali\Desktop\sho[\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.SimulatingScreen.resources
+C:\Users\Ali\Desktop\sho[\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\sho[\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\sho[\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.exe
+C:\Users\Ali\Desktop\sho[\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.pdb
+C:\Users\Ali\Desktop\LatestSimulation\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.exe.config
+C:\Users\Ali\Desktop\LatestSimulation\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.exe
+C:\Users\Ali\Desktop\LatestSimulation\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.pdb
+C:\Users\Ali\Desktop\LatestSimulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\LatestSimulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.Form1.resources
+C:\Users\Ali\Desktop\LatestSimulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.Properties.Resources.resources
+C:\Users\Ali\Desktop\LatestSimulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.SimulatingScreen.resources
+C:\Users\Ali\Desktop\LatestSimulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\LatestSimulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\LatestSimulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.exe
+C:\Users\Ali\Desktop\LatestSimulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.pdb
+C:\Users\Ali\Desktop\Simulation\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.exe.config
+C:\Users\Ali\Desktop\Simulation\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.exe
+C:\Users\Ali\Desktop\Simulation\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.pdb
+C:\Users\Ali\Desktop\Simulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\Simulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.Form1.resources
+C:\Users\Ali\Desktop\Simulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.Properties.Resources.resources
+C:\Users\Ali\Desktop\Simulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.SimulatingScreen.resources
+C:\Users\Ali\Desktop\Simulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\Simulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\Simulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.exe
+C:\Users\Ali\Desktop\Simulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.pdb
+C:\Users\Ali\Desktop\LastSimulation\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.exe.config
+C:\Users\Ali\Desktop\LastSimulation\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.exe
+C:\Users\Ali\Desktop\LastSimulation\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.pdb
+C:\Users\Ali\Desktop\LastSimulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\LastSimulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.Form1.resources
+C:\Users\Ali\Desktop\LastSimulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.Properties.Resources.resources
+C:\Users\Ali\Desktop\LastSimulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.SimulatingScreen.resources
+C:\Users\Ali\Desktop\LastSimulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\LastSimulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\LastSimulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.exe
+C:\Users\Ali\Desktop\LastSimulation\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.pdb
+C:\Users\Igor Malesic\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.exe.config
+C:\Users\Igor Malesic\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.exe
+C:\Users\Igor Malesic\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.pdb
+C:\Users\Igor Malesic\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csprojAssemblyReference.cache
+C:\Users\Igor Malesic\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.Form1.resources
+C:\Users\Igor Malesic\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.Properties.Resources.resources
+C:\Users\Igor Malesic\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.SimulatingScreen.resources
+C:\Users\Igor Malesic\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csproj.GenerateResource.cache
+C:\Users\Igor Malesic\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csproj.CoreCompileInputs.cache
+C:\Users\Igor Malesic\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.exe
+C:\Users\Igor Malesic\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.pdb
+C:\Users\Ali\Desktop\SimulationFinal\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.exe.config
+C:\Users\Ali\Desktop\SimulationFinal\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.exe
+C:\Users\Ali\Desktop\SimulationFinal\procp_cinemasimulation\simulation\simulation\bin\Debug\simulation.pdb
+C:\Users\Ali\Desktop\SimulationFinal\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\SimulationFinal\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.Form1.resources
+C:\Users\Ali\Desktop\SimulationFinal\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.Properties.Resources.resources
+C:\Users\Ali\Desktop\SimulationFinal\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.SimulatingScreen.resources
+C:\Users\Ali\Desktop\SimulationFinal\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\SimulationFinal\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\SimulationFinal\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.exe
+C:\Users\Ali\Desktop\SimulationFinal\procp_cinemasimulation\simulation\simulation\obj\Debug\simulation.pdb

@@ -8,15 +8,18 @@ namespace simulation
 {
 	abstract class Hall
 	{
-		public int seatAmount, doorAmount;
+		public int seatAmount;
+	    public int doorAmount;
+		public int shopAmount;
 
 		public string name;
 		public int PositionX, PositionY,
 			Height, Width,
 			Row, Column;
-
+        public int shopsAmount;
 		public Seat[,] seats;
 		public Door[] doors;
+		public Shops[] shops;
 
 		public abstract void HallConfiguration()
 		;
@@ -29,6 +32,10 @@ namespace simulation
 		{
 			return doorAmount;
 		}
+		public int GetShopsAmount()
+		{
+			return shopAmount;
+		}
 		public Seat[,] Seats()
 		{
 			return this.seats;
@@ -37,6 +44,10 @@ namespace simulation
 		public Door[] Doors()
 		{
 			return this.doors;
+		}
+		public Shops[] Shops()
+		{
+			return this.shops;
 		}
 
 		public int GetRow()
